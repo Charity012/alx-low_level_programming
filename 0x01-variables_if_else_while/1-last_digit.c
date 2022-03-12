@@ -23,4 +23,3 @@ int main(void)
 		printf("and is less than 6 and not 0\n");
 	return (0);
 }
-© 2022 GitH
